@@ -1,3 +1,11 @@
+# Crystallographic Point Groups
+
+Forked from https://github.com/marcdegraef/MagneticPointGroups
+
+Only scalar groups with minor modifications are used. Modifications include different colors for enantiomorphic positions and few tweaks for Linux OS.
+
+Read the original README:
+
 # Magnetic Point Groups
 This repository contains shell scripts and PoVray input files to generate all the stills and movies of the [mpg.web.cmu.edu](http://mpg.web.cmu.edu) site. It has also contains a number of scripts that will generate a complete web site similar to the original one, so you can locally post it.
 
