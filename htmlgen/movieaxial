@@ -1,3 +1,0 @@
-#!/bin/bash
-
-echo "							<li><a onclick=\"updatepage('html/mv_axial_$1.html')\">$2</a></li>"
